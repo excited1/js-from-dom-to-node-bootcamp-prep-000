@@ -2,4 +2,4 @@ console.log("Hello, World!")
 
 // write your code below!
 
-Console.log("how are you?")
+console.log("how are you?")
